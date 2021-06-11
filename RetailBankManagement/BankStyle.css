@@ -1,0 +1,13 @@
+﻿table
+{
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+body {
+    font-family:'Bookman Old Style';
+    font-weight:bold;
+    color:darkblue;
+}
